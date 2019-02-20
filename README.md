@@ -3,4 +3,4 @@
 
 Feb. 19, 2019
 
-[https://github.com/LeeYehSeob/IoT-Sensor-System/wiki/First](https://github.com/LeeYehSeob/IoT-Sensor-System/wiki/First)
+![https://github.com/LeeYehSeob/IoT-Sensor-System/wiki/First](https://github.com/LeeYehSeob/IoT-Sensor-System/wiki/First)
